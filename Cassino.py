@@ -1,4 +1,4 @@
-## Feito Com Ajuda De Terceiros!!
+## Feito Com a participação de chr1stianO!!
 jogador = input("Seu Nome?: ")
 poupanca = int(input("Quanto dinheiro você quer depositar? (máximo R$1000)"))
 if poupanca > 1000 or poupanca < 0:
@@ -18,3 +18,4 @@ while True:
     if poupanca <= 0:
         print("Seu dinheiro acabou! Jogo encerrado.")
         break
+
